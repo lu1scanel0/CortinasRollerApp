@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".DeliveryActivity">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Formulario de Despacho"
+        android:textSize="32sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:padding="10dp" />
+
+    <!-- Campo Nombre -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/editTextNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese su nombre"
+        android:inputType="textPersonName"
+        android:layout_marginTop="8dp" />
+
+    <!-- Campo Correo -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Correo"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/editTextCorreo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese su correo"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="8dp" />
+
+    <!-- Campo Dirección -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dirección"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/editTextDireccion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese su dirección"
+        android:inputType="textPostalAddress"
+        android:layout_marginTop="8dp" />
+
+    <!-- Campo Teléfono -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Teléfono"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/editTextTelefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Ingrese su teléfono"
+        android:inputType="phone"
+        android:layout_marginTop="8dp" />
+
+    <!-- Monto de la compra -->
+    <TextView
+        android:id="@+id/labelMontoCompra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Monto Total:"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:id="@+id/textViewMonto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_marginTop="8dp" />
+
+    <!-- Botón Confirmar -->
+    <Button
+        android:id="@+id/btnConfirmarDespacho"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirmar Despacho"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:backgroundTint="@android:color/holo_green_dark"
+
+        android:layout_marginTop="20dp" />
+
+</LinearLayout>

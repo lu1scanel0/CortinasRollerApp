@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "279363294863",
+    "firebase_url": "https://rollercortinasapp-default-rtdb.firebaseio.com",
+    "project_id": "rollercortinasapp",
+    "storage_bucket": "rollercortinasapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279363294863:android:1c85b6e667d515a0b182fa",
+        "android_client_info": {
+          "package_name": "com.example.eva03morancanelo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlaQEUNYKpel0qcbQKKG5kE5imYj7d6jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

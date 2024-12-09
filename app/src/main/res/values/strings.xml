@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Eva02CaneloMoran</string>
+    <string name="titulo">Cortinas Roller</string>
+    <string name="login">Inicia sesion</string>
+    <string name="registro">Registrate aqui</string>
+    <string name="catalogo">Nuestros productos</string>
+    <string name="black_out">Cortinas Black Out</string>
+    <string name="descCortBlack">Las cortinas roller blackout son ideales para bloquear completamente la luz, proporcionando privacidad y aislamiento acústico. Su diseño moderno se adapta a diversos estilos decorativos y su mantenimiento es sencillo. Además, ayudan a regular la temperatura interior, contribuyendo al ahorro energético. Son una opción funcional y estética para cualquier espacio.</string>
+    <string name="sunscreen">Cortinas Sunscreen</string>
+    <string name="descCortSuns">Las cortinas sunscreen permiten el paso de luz natural mientras protegen del deslumbramiento y los rayos UV. Disponibles en diversos diseños, ayudan a mantener una temperatura agradable y contribuyen al ahorro energético. Su fácil mantenimiento las convierte en una opción práctica para cualquier espacio. Ideal para disfrutar de la luz natural sin sacrificar la privacidad.</string>
+    <string name="duo">Cortinas Duo</string>
+    <string name="descCortDuo">Las cortinas duo combinan franjas de telas opacas y translúcidas, permitiendo un control versátil de la luz y la privacidad. Su diseño moderno se adapta a cualquier decoración y ofrece opciones de instalación manual o motorizada. Proporcionan aislamiento térmico y acústico, contribuyendo al ahorro energético. Son ideales para crear ambientes confortables y funcionales en diversos espacios.</string>
+    <string name="comprar">Comprar</string>
+    <string name="mail">Correo</string>
+    <string name="mailIngresa">Ingresa tu correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="passIngresa">Ingresa contraseña</string>
+    <string name="resumenVenta">Total Venta: </string>
+    <string name="productos">Productos: </string>
+    <string name="total">Total: $0</string>
+    <string name="nombre">Nombre</string>
+    <string name="nombreIngresa">Ingresa nombre completo</string>
+    <string name="somos">Quienes somos</string>
+    <string name="nuestraHistoria"><b><i>Lorem Ipsum</i></b> — Bienvenidos a Cortinas Roller, donde más de 50 años de tradición y excelencia nos han convertido en los líderes indiscutibles en cortinas roller sunscreen y blackout. Desde nuestros inicios en 1970, cuando comenzamos como un pequeño taller familiar en el corazón de la ciudad, nos hemos dedicado a perfeccionar el arte de controlar la luz y la temperatura en los hogares y oficinas de todo el país.
+        \n\n
+        <b><i>Lorem Ipsum</i></b> — Nuestro legado se basa en una obsesión por la calidad y la innovación. En los años 80, fuimos pioneros en la introducción de las cortinas sunscreen, permitiendo a miles de personas disfrutar de vistas despejadas sin renunciar a la protección solar. Para los 90, revolucionamos el mercado con las cortinas blackout, ideales para quienes buscaban oscuridad total y un ambiente acogedor.
+        \n\n
+        <b><i>Lorem Ipsum</i></b> — Hoy, Cortinas Sol Sombra sigue marcando tendencia, combinando tecnología avanzada con diseños elegantes y funcionales. Nos enorgullece decir que cada cortina que fabricamos lleva consigo décadas de historia, pasión por los detalles y la garantía de un producto hecho para durar. ¡Transforma tu espacio con la experiencia y dedicación de quienes llevan medio siglo creando ambientes perfectos!
+        \n\n
+        <b><i>Lorem Ipsum</i></b> — Morbi id molestie dui. Mauris interdum sapien ex, non eleifend nibh blandit at. Sed a mauris quis nisl lobortis laoreet. Aliquam erat volutpat. Vivamus vestibulum lacinia ornare. Suspendisse lacinia felis lacus, et fermentum ligula facilisis vitae. Duis fermentum elit eu mauris hendrerit, quis semper lorem ullamcorper.
+        \n\n
+        <b><i>Lorem Ipsum</i></b> — Morbi id molestie dui. Mauris interdum sapien ex, non eleifend nibh blandit at. Sed a mauris quis nisl lobortis laoreet. Aliquam erat volutpat. Vivamus vestibulum lacinia ornare. Suspendisse lacinia felis lacus, et fermentum ligula facilisis vitae. Duis fermentum elit eu mauris hendrerit, quis semper lorem ullamcorper.
+        \n\n
+        www.google.com</string>
+    <string name="descProducto">Descripcion del Producto</string>
+    <string name="delivery">Despacho</string>
+    <string name="reparacion">Reparacion</string>
+    <string name="mantencion">Mantencion</string>
+    <string name="servicio">Servicios</string>
+</resources>
